@@ -1,0 +1,8 @@
+{
+  "lambda": {
+    "role": "lambda_execute_image_s3_resize",
+    "name": "inception-s3-grate-cms-image-resize",
+    "region": "us-east-1",
+    "sharedRole": true
+  }
+}

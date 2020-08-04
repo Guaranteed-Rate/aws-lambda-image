@@ -2,10 +2,8 @@ node_modules/
 aws-lambda-image.zip
 aws-lambda-image-layer.zip
 build/
-config.json
 npm-debug.log
 *.sw?
 .idea/
 coverage
 .nyc_output
-claudia.json

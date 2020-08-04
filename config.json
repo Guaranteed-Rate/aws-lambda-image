@@ -1,0 +1,11 @@
+{
+  "bucket": "grate-cms",
+  "keepExtension": true,
+  "resizes": [
+    {
+      "size": "2400x8000>",
+      "directory": "cms",
+      "cacheControl": "public, max-age=31536000"
+    }
+  ]
+}
