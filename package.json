@@ -6,7 +6,7 @@
         "profile": "default",
         "region": "us-east-1",
         "memory": "2240",
-        "timeout": "60",
+        "timeout": "120",
         "name": "inception-s3-grate-cms-image-resize",
         "role": "lambda_execute_image_s3_resize",
         "runtime": "nodejs10.x"
