@@ -56,7 +56,7 @@
         "path-template": "0.0.0"
     },
     "devDependencies": {
-        "ava": "^2.0.0",
+        "ava": "^5.2.0",
         "aws-sdk-mock": "^1.6.1",
         "babel-eslint": "^7.2.1",
         "bind-all": "^1.0.0",
